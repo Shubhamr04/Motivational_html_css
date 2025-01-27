@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+#Motivation{
+    border: 5px solid pink;
+    margin-top: 50px;
+    margin: 50px 150px;
+    
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color:white;
+    font-family: "Prociono", serif;
+
+}
+p{
+    text-transform: uppercase;
+    color: white;
+    font-family: "Prociono", serif;
+}
+
+#photo{
+    border: 10px solid blue;
+    text-align: center;
+}
